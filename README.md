@@ -1,6 +1,6 @@
 # ruby2d_battleship
 
-Downnload the app
+Download the app
 
 run `ruby main.rb`
 
